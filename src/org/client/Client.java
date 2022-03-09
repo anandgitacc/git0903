@@ -9,5 +9,9 @@ public class Client {
 	public void clientLocation() {
 		System.out.println("Chennai");
 	}
+	
+	private void clientId() {
+		System.out.println("client ref id 87865");
+	}
 
 }
